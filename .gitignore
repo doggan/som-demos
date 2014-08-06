@@ -1,2 +1,6 @@
 *.suo
 *.user
+SOM_Image/bin
+SOM_Image/obj
+SOM_Color/obj
+SOM_Color/bin
