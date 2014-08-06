@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOM_Color", "SOM_Color\SOM_Color.csproj", "{089E8529-1132-4863-8A14-E9A5814CCB35}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOM_Image", "SOM_Image\SOM_Image.csproj", "{E1B31BD2-EE3E-4A85-8678-1B4EDE46F209}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{089E8529-1132-4863-8A14-E9A5814CCB35}.Debug.ActiveCfg = Debug|.NET
+		{089E8529-1132-4863-8A14-E9A5814CCB35}.Debug.Build.0 = Debug|.NET
+		{089E8529-1132-4863-8A14-E9A5814CCB35}.Release.ActiveCfg = Release|.NET
+		{089E8529-1132-4863-8A14-E9A5814CCB35}.Release.Build.0 = Release|.NET
+		{E1B31BD2-EE3E-4A85-8678-1B4EDE46F209}.Debug.ActiveCfg = Debug|.NET
+		{E1B31BD2-EE3E-4A85-8678-1B4EDE46F209}.Debug.Build.0 = Debug|.NET
+		{E1B31BD2-EE3E-4A85-8678-1B4EDE46F209}.Release.ActiveCfg = Release|.NET
+		{E1B31BD2-EE3E-4A85-8678-1B4EDE46F209}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
