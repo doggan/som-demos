@@ -11,6 +11,8 @@ is not the cleanest, it still hopefully serves as a good learning reference.
 SOM_Color demonstrates the basic Self-Organizing Map algorithm. It will
 attempt to take the given input colors and represent them on a 2-D network of nodes.
 
+![SOM_Color](https://raw.githubusercontent.com/doggan/som-demos/screenshots/screenshots/som_color.jpg "SOM Color")
+
 ### Overview and Options
 
 Windows:
@@ -56,6 +58,8 @@ into groups with similar images.
 Currently, with a 10x10 network, an good number of pictures to use
 is 200-300. This will provide (in an ideal situation) 2-3 pictures per
 network node.
+
+![SOM_Image](https://raw.githubusercontent.com/doggan/som-demos/screenshots/screenshots/som_image.jpg "SOM Image")
 
 ### Usage
 
